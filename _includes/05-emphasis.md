@@ -1,3 +1,3 @@
 * Network Engineer
 * Guitar Player
-* Independent Thinker
+* Independent _Thinker_
